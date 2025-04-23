@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
 const Header = () => (
     <div className="flex flex-col items-center text-center">
         <img
-            src="me.jpg"
+            src="Mypic.jpg"
             alt="Dona Dutta"
             className="w-32 h-32 rounded-full border-4 border-gray-700"
         />

@@ -9,7 +9,7 @@ const Contact = () => (
 
         {/* CV Download Button */}
         <a
-            href="resume_Dona.pdf" // Replace with the actual path to your CV file
+            href="cv[2].pdf" // Replace with the actual path to your CV file
             download="Dona_Dutta_CV.pdf"
             className="inline-block mt-6 bg-teal-500 hover:bg-teal-600 text-white font-semibold py-2 px-6 rounded-lg transition duration-300"
         >
