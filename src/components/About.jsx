@@ -22,9 +22,9 @@ const About = () => (
             animate={{ opacity: 1 }}
             transition={{ duration: 1, delay: 0.5 }}
         >
-            I am Dona Dutta, a passionate and detail-oriented Software Developer with a keen eye for problem-solving and innovation. With a strong foundation in Java, C/C++, Python, and web technologies, I thrive on building efficient, scalable, and user-centric solutions.
+            I am Dona Dutta, a passionate and detail-oriented Frontend Web Developer with a keen eye for creativity and innovation. With a strong foundation in Java, C/C++, Python, and web technologies, I thrive on building efficient, scalable, and user-centric solutions.
             <br /><br />
-            From designing a Medical Terminology Dictionary to developing a Web-Calendar and crafting algorithmic precision tools, I love tackling challenges that push my skills to the next level. I have solved 230+ coding problems on GeeksforGeeks, honing my analytical and algorithmic expertise.
+            From designing a portfolio to developing a interactive-story-game and crafting algorithmic precision tools, I love tackling challenges that push my skills to the next level. I have solved 230+ coding problems on GeeksforGeeks, honing my analytical and algorithmic expertise.
             <br /><br />
             Beyond coding, I believe in the power of creativity, teamwork, and adaptability to drive impactful projects. Whether it's optimizing systems, exploring AI, or crafting intuitive user experiences, I am always eager to learn, innovate, and grow in this ever-evolving tech landscape.
             <br /><br />

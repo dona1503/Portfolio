@@ -11,7 +11,7 @@ const Skills = () => (
             </li>
             <li className="flex items-center hover:bg-gray-700 p-2 rounded-lg transition-all duration-300 ease-in-out">
                 <FaLaptopCode className="text-teal-500 mr-2 transition-all duration-300 ease-in-out hover:text-teal-400" />
-                Chat-GPT, VMware WorkStation
+                GitHub, npm, Vite, Maven, Docker, Chat-GPT, VMware WorkStation
             </li>
             <li className="flex items-center hover:bg-gray-700 p-2 rounded-lg transition-all duration-300 ease-in-out">
                 <FaLaptopCode className="text-teal-500 mr-2 transition-all duration-300 ease-in-out hover:text-teal-400" />
